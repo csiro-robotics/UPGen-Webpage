@@ -1,9 +1,9 @@
 
 ## [Daniel Ward](https://danielcward.github.io/) and [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam)
 
-This is the webpage for the (under review) CVIU paper: Scalable learning for bridging the species gap in image-based plant phenotyping
+This is the webpage for the CVIU paper: Scalable learning for bridging the species gap in image-based plant phenotyping
 
-## [[ Paper ]](https://arxiv.org/abs/2003.10757) [[ BibTex ]](https://github.com/csiro-robotics/UPGen_Webpage/blob/master/docs/ward2020scalable.bib) [[ Dataset]](https://research.csiro.au/robotics/our-work/databases/synthetic-arabidopsis-dataset/) [[Code]](https://github.com/csiro-robotics/UPGen) [[ Pretrained Model]](https://cloudstor.aarnet.edu.au/plus/s/uT5G7Lu3tZ6SahS)
+## [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300746) [[ ArXiv Paper ]](https://arxiv.org/abs/2003.10757) [[ BibTex ]](https://github.com/csiro-robotics/UPGen_Webpage/blob/master/docs/ward2020scalable.bib) [[ Dataset]](https://research.csiro.au/robotics/our-work/databases/synthetic-arabidopsis-dataset/) [[Code]](https://github.com/csiro-robotics/UPGen) [[ Pretrained Model]](https://cloudstor.aarnet.edu.au/plus/s/uT5G7Lu3tZ6SahS)
 
 <div style="margin:0 auto"> <img width="1080" src='docs/images/overview_bigArrow.png'> </div>
 
@@ -69,8 +69,10 @@ Example segmentations on test images. Left to right is an image from each test d
 @article{ward2020scalable,
   title={Scalable learning for bridging the species gap in image-based plant phenotyping},
   author={Ward, Daniel and Moghadam, Peyman},
-  journal={arXiv preprint arXiv:2003.10757},
-  year={2020}
+  journal={Computer Vision and Image Understanding},
+  pages={103009},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
 
